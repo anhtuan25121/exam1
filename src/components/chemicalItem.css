@@ -1,0 +1,29 @@
+.chemical-list {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.chemical-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.chemical-list th, .chemical-list td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.chemical-list th {
+    background-color: #f1f1f1;
+}
+
+.chemical-list .text-align-center {
+    text-align: center;
+}
+
+.chemical-list .btn {
+    margin: 0 5px;
+}
